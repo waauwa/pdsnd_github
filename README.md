@@ -93,11 +93,13 @@ no
 ```
 
 ### Files used
+
 bikeshare.py
 chicago.csv
 new_york_city.csv
 washington.csv
 
 ### Credits
-stackoverflow, udacity, github 
-
+stackoverflow 
+udacity 
+github 
