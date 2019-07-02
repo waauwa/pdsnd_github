@@ -206,7 +206,7 @@ def display_data(df):
 
         print(df.iloc[i:i+5,:])
 
-        more_lines = input('do you want to see more 5 lines of raw data? \'yes\' or \'no\'\n> ')
+        more_lines = input('Do you want to see more 5 lines of raw data? \'yes\' or \'no\'\n> ')
         if more_lines.lower() != 'yes': 
             break    
 
